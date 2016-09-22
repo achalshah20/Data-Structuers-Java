@@ -4,7 +4,7 @@ public class AlgosTest {
 
 	public static void main(String args[]) {
 
-		LinkedList lls = new LinkedList();
+		SLinkedList lls = new SLinkedList();
 
 		lls.insertFront(5);
 		lls.insertFront(1);
